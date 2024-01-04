@@ -1,7 +1,7 @@
 import 'dart:convert';
 
 import 'package:voice_assistance/secret.dart';
-import 'packag e:http/http.dart' as http;
+import 'package:http/http.dart' as http;
 
 class OpenAIService {
   Future<String> isArtPromptAPI(String prompt) async {
