@@ -7,3 +7,8 @@ const kTextstyleCeraPro23 = TextStyle(
     fontSize: 23,
     fontFamily: 'Cera Pro',
     fontWeight: FontWeight.bold);
+const kTextstyleCeraPro18 = TextStyle(
+    color: Pallete.mainFontColor,
+    fontSize: 18,
+    fontFamily: 'Cera Pro',
+    fontWeight: FontWeight.bold);
